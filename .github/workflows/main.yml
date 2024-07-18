@@ -165,4 +165,4 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: Деплой Kitygram успешно выполнен!
+        message: Деплой Kittygram успешно выполнен!
