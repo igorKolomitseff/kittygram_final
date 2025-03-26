@@ -11,11 +11,16 @@ Kittygram - это платформа, позволяющая пользоват
 * Просмотр кошек других пользователей и редактирование профилей своих кошек.
 
 ## Стек технологий
-* Backend: Django, Django REST Framework, Gunicorn
-* Frontend: NodeJS, React
-* База данных: PostgreSQL
-* Веб-сервер: Nginx
-* Контейнеризация: Docker
+* Backend: 
+  [Django](https://www.djangoproject.com/), 
+  [Django REST Framework](https://www.django-rest-framework.org/), 
+  [Gunicorn](https://gunicorn.org/)
+* Frontend: 
+  [NodeJS](https://nodejs.org/en), 
+  [React](https://react.dev/)
+* База данных: [PostgreSQL](https://www.postgresql.org/)
+* Веб-сервер: [Nginx](https://nginx.org/)
+* Контейнеризация: [Docker](https://www.docker.com/)
 
 ## Как развернуть проект
 1. Клонируйте репозиторий и перейдите в директорию kittygram_final
